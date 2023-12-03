@@ -1,8 +1,7 @@
+<img alt="MasterHead" width=100% src="https://64.media.tumblr.com/5701fdb2bc1a6f54452c955f5532bddd/df79a0f1594d1667-db/s1280x1920/f225e33be8e797b1b3c7dd9e4cd2e169918b4ddb.gifv">
 <h1 align="center">Hi 👋, I'm Alan Paccor</h1>
 <h3 align="center">A passionate full-stack developer!</h3>
-<img align="right" alt="Coding" width="400" src="[https://cdn.dribble.com/users/116077/screenshots/3848914/programmer.gif](https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966)">
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alanpaccor" alt="alanpaccor" /></a> </p>
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
 
 - 🔭 I’m currently working on [Indecisive Quiz](https://github.com/AlanPaccor/indecisive-quiz)
 
