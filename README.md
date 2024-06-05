@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **alanpaccor@gmail.com**
 
-- 📄 Know about my experiences [https://nextjs-portfolio-flame-omega.vercel.app/](https://nextjs-portfolio-flame-omega.vercel.app/)
+- 📄 Know about my experiences [https://alanpaccor.com](https://alanpaccor.com/)
 
 - ⚡ Fun fact **I've been playing soccer my whole life**
 
