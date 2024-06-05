@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **Anything Out of The Ordinary**
 
-- 👨‍💻 All of my projects are available at [https://nextjs-portfolio-flame-omega.vercel.app/](https://nextjs-portfolio-flame-omega.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://alanpaccor.com](https://alanpaccor.com/)
 
 - 💬 Ask me about **React, Tailwind**
 
