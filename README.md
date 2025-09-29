@@ -3,7 +3,7 @@
 <h3 align="center">A passionate full-stack developer!</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
 
-- 🔭 I’m currently working on [Indecisive Quiz](https://github.com/AlanPaccor/indecisive-quiz)
+- 🔭 I’m currently working on improving my Java and Springboot skills
 
 - 🌱 I’m currently learning **React, Tailwind, React Native, Typescript**
 
@@ -11,13 +11,13 @@
 
 - 🤝 I’m looking for help with **Anything Out of The Ordinary**
 
-- 👨‍💻 All of my projects are available at [https://alanpaccor.com](https://alanpaccor.com/)
+- 👨‍💻 All of my projects are available at [https://alanpaccor.xyz](https://alanpaccor.xyz/)
 
 - 💬 Ask me about **React, Tailwind**
 
 - 📫 How to reach me **alanpaccor@gmail.com**
 
-- 📄 Know about my experiences [https://alanpaccor.com](https://alanpaccor.com/)
+- 📄 Know about my experiences [https://alanpaccor.xyz](https://alanpaccor.xyz/)
 
 - ⚡ Fun fact **I've been playing soccer my whole life**
 
